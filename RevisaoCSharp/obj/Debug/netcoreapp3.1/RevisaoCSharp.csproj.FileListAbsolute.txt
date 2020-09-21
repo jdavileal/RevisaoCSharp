@@ -1,0 +1,13 @@
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\bin\Debug\netcoreapp3.1\RevisaoCSharp.exe
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\bin\Debug\netcoreapp3.1\RevisaoCSharp.deps.json
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\bin\Debug\netcoreapp3.1\RevisaoCSharp.runtimeconfig.json
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\bin\Debug\netcoreapp3.1\RevisaoCSharp.runtimeconfig.dev.json
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\bin\Debug\netcoreapp3.1\RevisaoCSharp.dll
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\bin\Debug\netcoreapp3.1\RevisaoCSharp.pdb
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.csprojAssemblyReference.cache
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.AssemblyInfoInputs.cache
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.AssemblyInfo.cs
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.dll
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.pdb
+C:\Users\Davi Leal\Documents\repositorios_git\RevisaoCSharp\RevisaoCSharp\obj\Debug\netcoreapp3.1\RevisaoCSharp.genruntimeconfig.cache
